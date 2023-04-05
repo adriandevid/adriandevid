@@ -34,3 +34,6 @@ Adrian Devid</a></h1>
       </div>
 
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adriandevid)](https://git.io/streak-stats)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=adriandevid&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true)](https://github.com/adriandevid)
